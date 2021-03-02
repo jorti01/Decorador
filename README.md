@@ -1,4 +1,3 @@
-# Decorador
 # Patrones de Diseño
 
 
